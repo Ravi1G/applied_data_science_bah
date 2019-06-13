@@ -3,7 +3,7 @@
 
 ### Booz Allen Trainings (June 17th-20th, 2019) presented by GTK Cyber
 
-<img src="img/ing-logo.jpg" width="150" align="right" > GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
+<img src="img/bah.jpeg" width="150" align="right" > GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
 all with a focus on direct applicability to cyber security.
 
